@@ -1,4 +1,4 @@
-- hosts: kant
+- hosts: Ubuntu3
   become: yes
   gather_facts: false
   tasks:
